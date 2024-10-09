@@ -212,6 +212,8 @@ Kegunaan:
 4. Menambah link css di base.html
 5. Mengimplementasikan Edit dan Delete
 
+# Tugas 5
+
 ### Jelaskan manfaat dari penggunaan JavaScript dalam pengembangan aplikasi web!
 JavaScript memungkinkan untuk menambahkan interaktivitas ke halaman web. Pengguna dapat berinteraksi dengan elemen-elemen seperti tombol, form, menu, atau konten yang berubah dinamis, tanpa perlu memuat ulang halaman.
 
